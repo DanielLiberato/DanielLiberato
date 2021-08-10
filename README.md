@@ -1,4 +1,10 @@
 ## Olá eu sou Daniel Liberato !!!
+- 👋 Olá,tenho 21 anos, sou Cristão, casado e sem filhos, Sou formado como técnico em telecomunicações desde que terminei meu Ensino médio. 
+- Eu atuei com telecomunicações,redes,configurações em equipamentos, infraestrutura de acesso e etc... em uma micro-empresa familiar que tinha foco em prover acesso a Internet em Manaus. 
+- Em 2020 comecei a estudar programação que era uma parte de TI que eu já havia visto desenvolvedores produzindo e achei muito  bacana, eu sempre amei técnologia desde sempre mesmo e isso é minha vida.
+- Minha stack hoje é focada principalmente para o back-end em PHP e no front-end o framework Vue.js
+- 👀 Foco no back e estudando também o front.
+<br/>
 
  <div>
   <a href="https://github.com/DanielLiberato">
@@ -12,8 +18,6 @@
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 </a>
 <br/>
@@ -26,11 +30,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   </a>
 </div>
-   
-   
-- 👋 Olá,tenho 21 anos, sou Cristão, casado e sem filhos, Sou formado como técnico em telecomunicações desde que terminei meu Ensino médio. 
-- Eu atuei com telecomunicações,redes,configurações em equipamentos, infraestrutura de acesso e etc... em uma micro-empresa familiar que tinha foco em prover acesso a Internet em Manaus. 
-- Em 2020 comecei a estudar programação que era uma parte de TI que eu já havia visto desenvolvedores produzindo e achei muito  bacana, eu sempre amei técnologia desde sempre mesmo e isso é minha vida.
-- Minha stack hoje é focada principalmente para o back-end em PHP e no front-end o framework Vue.js
-- 👀 Foco no back e estudando também o front.
-
+  
+   ![Snake animation](https://github.com/DanielLiberato/DanielLiberato/blob/output/github-contribution-grid-snake.svg)
