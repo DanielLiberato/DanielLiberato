@@ -1,9 +1,13 @@
-## Olá eu sou Daniel Liberato !!!
-- 👋 Olá,tenho 21 anos, sou Cristão, casado e sem filhos, Sou formado como técnico em telecomunicações desde que terminei meu Ensino médio. 
-- Eu atuei com telecomunicações,redes,configurações em equipamentos, infraestrutura de acesso e etc... em uma micro-empresa familiar que tinha foco em prover acesso a Internet em Manaus. 
-- Em 2020 comecei a estudar programação que era uma parte de TI que eu já havia visto desenvolvedores produzindo e achei muito  bacana, eu sempre amei técnologia desde sempre mesmo e isso é minha vida.
-- Minha stack hoje é focada principalmente para o back-end em PHP e no front-end o framework Vue.js
-- 👀 Foco no back e estudando também o front.
+## Olá eu sou Daniel !!!
+ 👋 tudo jóia ? espero que sim, vou falar um pouco sobre min.
+<br/>
+- Sou programador e amo fazer isso.
+- acho bem massa criar coisas novas e dar manutenção em sistemas , negócio de tecnologia é minha segunda metade praticamente (tipo assim).
+- Sou alguém persistente e que não desiste das coisas facilmente , eu faço todo possível para chegar no fim de meus objetivos.
+- Eu tenho uma frase na cabeça que ninguem fracassa e o que aconte na realidade é que apenas as pessoas desistem dos seus objetivos.
+- Sou bem tranquilo, fácil de conversar , sempre que estiver ao meu alcance posso ajudar meu colega de trabalho.
+- Não sei de tudo claro e quem é que sabe de tudo ? ninguém sabe de tudo. Eu procuro sempre aprender algo novo e graças a Deus eu pego as coisas rápido. Claro pode aparecer dificuldades mas isso a gente vence não desistindo.
+- parece muito clichê mais sou assim ;)
 <br/>
 
  <div>
