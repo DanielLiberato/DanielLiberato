@@ -6,7 +6,6 @@
 - Sou alguém persistente e que não desiste das coisas facilmente , eu faço todo possível para chegar no fim de meus objetivos.
 - Eu tenho uma frase na cabeça que ninguem fracassa e o que aconte na realidade é que apenas as pessoas desistem dos seus objetivos.
 - Sou bem tranquilo, fácil de conversar , sempre que estiver ao meu alcance posso ajudar meu colega de trabalho.
-- Não sei de tudo claro e quem é que sabe de tudo ? ninguém sabe de tudo. Eu procuro sempre aprender algo novo e graças a Deus eu pego as coisas rápido. Claro pode aparecer dificuldades mas isso a gente vence não desistindo.
 - Sei, sei parece muito clichê mais realmente eu sou assim ;)
 <br/>
 
