@@ -20,6 +20,8 @@
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" height="50" width="60" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg">
+  <img align="center" height="50" width="80" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
   <img align="center" height="150" width="160" src="https://media.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif">
 </div>
 </a>
