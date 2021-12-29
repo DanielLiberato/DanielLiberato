@@ -5,7 +5,8 @@
 - acho bem massa criar coisas novas e dar manutenção em sistemas , negócio de tecnologia é minha segunda metade praticamente (tipo assim).
 - Sou alguém persistente e que não desiste das coisas facilmente , eu faço todo possível para chegar no fim de meus objetivos.
 - Eu tenho uma frase na cabeça que ninguém fracassa e o que acontece na realidade é que apenas as pessoas desistem dos seus objetivos.
-- Sou bem tranquilo, fácil de conversar , sempre que estiver ao meu alcance posso ajudar meu colega de trabalho
+- Sou bem tranquilo, fácil de conversar , sempre que estiver ao meu alcance posso ajudar meu colega de trabalho.
+- Continuo estudando continuamente PHP e JAVA e desenvolvendo meu inglês.
 <br/>
 
  <div>
