@@ -8,12 +8,6 @@
 - Sou bem tranquilo, fácil de conversar , sempre que estiver ao meu alcance posso ajudar meu colega de trabalho.
 - Continuo estudando continuamente PHP e JAVA e desenvolvendo meu inglês.
 <br/>
-
- <div>
-  <a href="https://github.com/DanielLiberato">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanielLiberato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLiberato&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
