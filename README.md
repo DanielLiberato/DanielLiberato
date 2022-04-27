@@ -1,23 +1,32 @@
-## Olá eu sou Daniel !!!
- 👋 tudo jóia ? espero que sim, vou falar um pouco sobre min.
-<br/>
-- Sou programador e amo fazer isso.
-- acho bem massa criar coisas novas e dar manutenção em sistemas , negócio de tecnologia é minha segunda metade praticamente (tipo assim).
-- Sou alguém persistente e que não desiste das coisas facilmente , eu faço todo possível para chegar no fim de meus objetivos.
-- Eu tenho uma frase na cabeça que ninguém fracassa e o que acontece na realidade é que apenas as pessoas desistem dos seus objetivos.
-- Sou bem tranquilo, fácil de conversar , sempre que estiver ao meu alcance posso ajudar meu colega de trabalho.
-- Continuo estudando continuamente e desenvolvendo meu inglês.
-
+## Back-end
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="50" width="60" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg">
-  <img align="center" height="50" width="80" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
-  <img align="center" height="150" width="160" src="https://media.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif">
+  <img align="center" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" height="80" width="100" src="https://user-images.githubusercontent.com/81873713/165418975-6b07440b-7484-4b46-8a4b-f933e4a321f7.svg">
 </div>
+
+<br>
+
+## Front-end
+<div>
+  <img align="center" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+  <img align="center" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<!--   <img align="center" height="80" width="100" src="https://user-images.githubusercontent.com/81873713/165419310-31bdef0d-30b0-44f7-a7d0-5c58bec03f13.svg"> -->
+</div>
+
+
+## Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+  <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<!--   <img align="center" height="80" width="100" src="https://user-images.githubusercontent.com/81873713/165418551-b0cfa6fd-ceea-4278-84b8-a541fc8bd676.svg"> -->
+</div>
+
+<br>
+  
 </a>
 <br/>
 <br/>
