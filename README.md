@@ -11,26 +11,18 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior Site Reliability Engineer** specializing in operating and scaling revenue-critical fintech platforms under strict availability, security, and compliance requirements.
-
-My work focuses on designing resilient cloud architectures, improving production reliability, and enabling engineering teams to safely deliver software at scale. I operate mission-critical systems running in **Google Cloud Platform** and **Kubernetes** environments, applying Infrastructure as Code, observability, and incident management practices to continuously improve system stability and performance.
-
-Currently acting as a **Tech Lead**, I drive reliability initiatives including PCI DSS compliance, incident response processes, postmortems, and platform scalability strategies supporting high-traffic payment and affiliate ecosystems.
-
-My background combines software engineering, networking, and cloud infrastructure, allowing me to bridge development and operations while aligning technical decisions with business outcomes.
-
----
-
-## 🚀 Core Areas of Expertise
-
-- Site Reliability Engineering (SRE)
-- High-Availability Distributed Systems
-- Kubernetes & Cloud Infrastructure (GCP / AWS)
-- Observability & Incident Management
-- DevSecOps & Compliance (PCI DSS)
-- Infrastructure as Code & Automation
-- Platform Scalability & Performance Engineering
-
----
-
-💡 I am passionate about building reliable platforms that allow teams to move fast without compromising stability or security.
+I’m a PHP Tech Lead and DevOps Engineer with a strong background in building scalable, high-performance systems and leading engineering teams in cloud environments.
+ 
+My expertise sits at the intersection of software engineering, cloud infrastructure, and business strategy, allowing me to translate business needs into robust, scalable technical solutions.
+ 
+I have deep experience with PHP (Laravel), designing complex backend systems, integrations, and distributed architectures. Alongside that, I operate and architect cloud environments using Google Cloud Platform (GCP) and AWS, leveraging Kubernetes, Terraform, and CI/CD pipelines.
+ 
+As a Tech Lead, I lead teams across development and infrastructure, ensuring alignment between product goals, system architecture, and operational excellence.
+ 
+I also use Python and Go to build automation tools, improve internal platforms, and optimize engineering workflows.
+ 
+My approach is grounded in software architecture best practices, including design patterns, scalability, and performance optimization, always focusing on building reliable systems that can grow efficiently.
+ 
+I’ve been leveraging AI to accelerate development, improve code quality, and enhance decision-making across engineering processes.
+ 
+Focused on delivering high-impact solutions that connect business objectives with scalable and maintainable technology.
